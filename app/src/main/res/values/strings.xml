@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adventure</string>
+    <string name="角色選擇">角色選擇</string>
+    <string name="開始遊戲">開始遊戲</string>
+    <string name="role">Role</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">地圖</string>
+    <string name="contentTitile">角色介紹</string>
+</resources>
